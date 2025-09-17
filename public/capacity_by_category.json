@@ -1,0 +1,58 @@
+[
+  {
+    "category": "Брюки",
+    "capacity_cbm": 19.008
+  },
+  {
+    "category": "Вейдерсы",
+    "capacity_cbm": 72.57600000000001
+  },
+  {
+    "category": "Головные уборы",
+    "capacity_cbm": 10.368
+  },
+  {
+    "category": "Костюмы",
+    "capacity_cbm": 86.4
+  },
+  {
+    "category": "Кофты",
+    "capacity_cbm": 8.64
+  },
+  {
+    "category": "Куртки",
+    "capacity_cbm": 50.112
+  },
+  {
+    "category": "Носки",
+    "capacity_cbm": 5.184
+  },
+  {
+    "category": "Оборудование",
+    "capacity_cbm": 8.064
+  },
+  {
+    "category": "Обувь",
+    "capacity_cbm": 120.96
+  },
+  {
+    "category": "Перчатки",
+    "capacity_cbm": 5.184
+  },
+  {
+    "category": "Сумки и чехлы",
+    "capacity_cbm": 12.096
+  },
+  {
+    "category": "Термоодежда",
+    "capacity_cbm": 18.144
+  },
+  {
+    "category": "Футболки и рубашки",
+    "capacity_cbm": 3.456
+  },
+  {
+    "category": "Худи",
+    "capacity_cbm": 2.592
+  }
+]

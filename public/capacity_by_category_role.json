@@ -1,0 +1,162 @@
+[
+  {
+    "category": "Брюки",
+    "role": "attic",
+    "capacity_cbm": 6.912
+  },
+  {
+    "category": "Брюки",
+    "role": "overstock",
+    "capacity_cbm": 10.368
+  },
+  {
+    "category": "Брюки",
+    "role": "pick",
+    "capacity_cbm": 1.728
+  },
+  {
+    "category": "Вейдерсы",
+    "role": "attic",
+    "capacity_cbm": 20.736
+  },
+  {
+    "category": "Вейдерсы",
+    "role": "overstock",
+    "capacity_cbm": 10.368
+  },
+  {
+    "category": "Вейдерсы",
+    "role": "pick",
+    "capacity_cbm": 41.472
+  },
+  {
+    "category": "Головные уборы",
+    "role": "overstock",
+    "capacity_cbm": 6.912
+  },
+  {
+    "category": "Головные уборы",
+    "role": "pick",
+    "capacity_cbm": 3.456
+  },
+  {
+    "category": "Костюмы",
+    "role": "attic",
+    "capacity_cbm": 34.56
+  },
+  {
+    "category": "Костюмы",
+    "role": "overstock",
+    "capacity_cbm": 17.28
+  },
+  {
+    "category": "Костюмы",
+    "role": "pick",
+    "capacity_cbm": 34.56
+  },
+  {
+    "category": "Кофты",
+    "role": "attic",
+    "capacity_cbm": 6.912
+  },
+  {
+    "category": "Кофты",
+    "role": "pick",
+    "capacity_cbm": 1.728
+  },
+  {
+    "category": "Куртки",
+    "role": "attic",
+    "capacity_cbm": 13.824
+  },
+  {
+    "category": "Куртки",
+    "role": "overstock",
+    "capacity_cbm": 10.368
+  },
+  {
+    "category": "Куртки",
+    "role": "pick",
+    "capacity_cbm": 25.92
+  },
+  {
+    "category": "Носки",
+    "role": "overstock",
+    "capacity_cbm": 1.728
+  },
+  {
+    "category": "Носки",
+    "role": "pick",
+    "capacity_cbm": 3.456
+  },
+  {
+    "category": "Оборудование",
+    "role": "attic",
+    "capacity_cbm": 3.456
+  },
+  {
+    "category": "Оборудование",
+    "role": "overstock",
+    "capacity_cbm": 1.536
+  },
+  {
+    "category": "Оборудование",
+    "role": "pick",
+    "capacity_cbm": 3.072
+  },
+  {
+    "category": "Обувь",
+    "role": "attic",
+    "capacity_cbm": 69.12
+  },
+  {
+    "category": "Обувь",
+    "role": "overstock",
+    "capacity_cbm": 24.192
+  },
+  {
+    "category": "Обувь",
+    "role": "pick",
+    "capacity_cbm": 27.648
+  },
+  {
+    "category": "Перчатки",
+    "role": "pick",
+    "capacity_cbm": 5.184
+  },
+  {
+    "category": "Сумки и чехлы",
+    "role": "attic",
+    "capacity_cbm": 6.912
+  },
+  {
+    "category": "Сумки и чехлы",
+    "role": "pick",
+    "capacity_cbm": 5.184
+  },
+  {
+    "category": "Термоодежда",
+    "role": "attic",
+    "capacity_cbm": 6.912
+  },
+  {
+    "category": "Термоодежда",
+    "role": "overstock",
+    "capacity_cbm": 1.728
+  },
+  {
+    "category": "Термоодежда",
+    "role": "pick",
+    "capacity_cbm": 9.504
+  },
+  {
+    "category": "Футболки и рубашки",
+    "role": "pick",
+    "capacity_cbm": 3.456
+  },
+  {
+    "category": "Худи",
+    "role": "pick",
+    "capacity_cbm": 2.592
+  }
+]
